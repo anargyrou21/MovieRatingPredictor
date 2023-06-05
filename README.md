@@ -1,7 +1,7 @@
 # Project Title
 
 ## 1. Dataset:
-* [movie_data.ipynb](./movie_data.ipynb)
+* [movie_data_preparation.ipynb](./movie_data.ipynb)
 
 ## 2. Run code
 
